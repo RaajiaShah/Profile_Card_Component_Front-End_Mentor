@@ -1,7 +1,7 @@
 body {
     background-color: #1AA0AC;
-    background-image: url(./images/bg-pattern-top.svg), 
-    url(images/bg-pattern-bottom.svg);
+    background-image: url(../images/bg-pattern-top.svg), 
+    url(../images/bg-pattern-bottom.svg);
     background-position: right 45vw bottom 45vh, 45vw 45vh;
     background-repeat: no-repeat;
     display: flex;
@@ -39,7 +39,7 @@ body {
     height: 140px;
     width: 320px;
     border-radius: 10px 10px 0px 0px;
-    background-image: url("images/bg-pattern-card.svg");
+    background-image: URL("../images/bg-pattern-card.svg");
   }
   
   .content {
